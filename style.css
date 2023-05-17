@@ -1,0 +1,135 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.intro{
+  text-align: center;
+}
+body{
+  min-height: 100vh;
+  background-image: url('rtf.webp');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+img{
+  max-width: 200px;
+  border: 3px solid #fff;
+  border-radius: 20px;
+  width: 40%;
+}
+
+.main{
+  width: 78%;
+}
+.text{
+  text-indent: 1px;
+}
+.vamp{
+  border: 3px solid colorless;
+  color: black;
+  max-width: 500px;
+  margin-bottom: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 10px 10px 10px;
+  max-height: fit-content;
+}
+.lil{
+  border: 3px solid colorless;
+  color: black;
+  max-width: 500px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  padding: 10px 30px 30px 30px;
+  max-height: fit-content;
+  margin-top: 10px;
+}
+.njoro{
+  border: 3px solid colorless;
+  color: black;
+  max-width: 500px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 30px 30px 30px;
+  max-height: fit-content;
+}
+.p{
+  margin: 10px;
+}
+
+
+.papa{
+  border: 3px solid colorless;
+  color: black;
+  max-width: 500px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  padding: 10px 30px 30px 30px;
+  max-height: fit-content;
+}
+.dee{
+  border: 3px solid colorless;
+  color: black;
+  max-width: 500px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  padding: 10px 30px 30px 30px;
+  max-height: fit-content;
+}
+.kevi{
+  border: 3px solid colorless;
+  color: black;
+  max-width: 500px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 30px 30px 30px;
+  max-height: fit-content;
+}
+.deb{
+  border: 3px solid colorless;
+  color: black;
+  max-width: 500px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  padding: 10px 30px 30px 30px;
+  max-height: fit-content;
+}
+.dero{
+  border: 3px solid colorless;
+  color: black;
+  max-width: 200px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 30px 30px 30px;
+  max-height: fit-content;
+}
+.deno{
+  border: 3px solid colorless;
+  color: black;
+  max-width: 500px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  padding: 10px 30px 30px 30px;
+  max-height: fit-content;
+  margin-left: auto;
+}
+.pgn{
+  background-image: linear-gradient(to right,brown ,pink,violet);
+
+  border: 3px solid colorless;
+  max-width: 700px;
+  max-height: max-content;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 100px;
+  border-radius: 100px;
+}
